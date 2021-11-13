@@ -1,0 +1,16 @@
+{
+  "name": "wa-bot",
+  "version": "1.0.0",
+  "description": "Learn how to make Whatsapp  bot",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miftahulhdyt@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.2",
+    "mathjs": "^10.0.0"
+  }
+}
